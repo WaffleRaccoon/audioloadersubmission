@@ -1,0 +1,10 @@
+{
+  "name": "Nintendo 3DS eShop Theme (June 2011)",
+  "description": "The theme for the 3DS eShop during June 2011.",
+  "author": "WaffleRaccoon",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
